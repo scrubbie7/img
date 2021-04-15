@@ -1,0 +1,121 @@
+{
+  "title": "Imgur",
+  "description": "no",
+  "artist": "no",
+  "author": "no",
+  "cover": "https://i.imgur.com/Y6woQh9.jpg",
+  "chapters": {
+    "1": {
+      "title": "Hiru wa Krillin no Tsuma",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/CT1KG/"
+      },
+      "last_updated": "1616368746"
+    },
+"2": {
+      "title": "Cradle selling wife",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/HOlv66k/"
+      },
+      "last_updated": "1616368746"
+    },
+"3": {
+      "title": "Hitozuma Katei Kyoushi",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/tdC3DAp/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Kage no Tsuru Ito | Tendrils in the Shadows",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/4HzvMCz/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Yomenai KOKORO | Unreadable HEART",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/C5ExpDZ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Sexpress",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/NKzmmom/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "Summer Emotion",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/ww9DStz/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Haitoku tte Kimochi Yokunai!? | Doesn't Corruption Feel Good?",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/2eDF8u6/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "Natsu dake Koibito | Summer Only Lover",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/5mXUt1V/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Izumi's Bad Habit",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/ZIMAUai/"
+      },
+      "last_updated": "1616368746"
+    },
+    "11": {
+      "title": "Fortune Partner",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/BZsJYSk/"
+      },
+      "last_updated": "1616368746"
+    },
+    "12": {
+      "title": "Hajimete wo Itadaku wa! | I'll Be Taking Your First Time!",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/V9ssZSS/"
+      },
+      "last_updated": "1616368746"
+    },
+    "13": {
+      "title": "long",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/vqcNk/"
+      },
+      "last_updated": "1616368746"
+    },
+    "14": {
+      "title": "ZEEN (Granblue Fantasy)",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/jsy69xT/"
+      },
+      "last_updated": "1616368746"
+    }
+   }
+  }  
